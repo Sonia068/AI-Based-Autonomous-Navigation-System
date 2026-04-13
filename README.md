@@ -172,14 +172,17 @@ When you run the dashboard, you’ll see:
 
 ## Screenshots 🖼️
 
-Add your screenshots to `assets/images/` and link them here:
+### Environment Map
+![Environment Map](outputs/astar_demo_20260413_105636.png)
 
-- Environment Map (placeholder)
-  - `assets/images/environment_map.png`
-- Navigation Result (placeholder)
-  - `assets/images/navigation_result.png`
-- Live Simulation (placeholder)
-  - `assets/images/live_simulation.gif`
+### Navigation Result
+![Navigation Result](outputs/astar_demo_20260413_105709.png)
+
+### Path Visualization
+![Path Visualization](outputs/astar_demo_20260413_114152.png)
+
+### Dashboard Output
+![Dashboard](outputs/streamlit_plot_test.png)
 
 ---
 
