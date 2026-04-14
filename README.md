@@ -215,7 +215,7 @@ When you run the dashboard, you’ll see:
 
 ## Author 👤
 
-Built by **[Your Name Here]**
+Built by **[Sonia Thakur]**
 
 - GitHub: `https://github.com/Sonia068`
 - LinkedIn: `https://www.linkedin.com/in/sonia-thakur-6ab93b349/`
